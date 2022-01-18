@@ -1,6 +1,6 @@
 # 2022 Problem Solving study #
 
-<p align="center"><img src=""></p>
+<p align="center"><img src="./riblis_PS.png"></p>
 
 ## GOAL ##
 
