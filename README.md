@@ -1,7 +1,9 @@
 # 2022 Problem Solving study #
 
 <p align="center"><img src="./riblis_PS.png"></p>
-[comment]: [img source](https://www.vectorstock.com/royalty-free-vector/abstract-drops-water-vector-29325312)
+<!---
+[img source](https://www.vectorstock.com/royalty-free-vector/abstract-drops-water-vector-29325312)
+--->
 
 ## GOAL ##
 
