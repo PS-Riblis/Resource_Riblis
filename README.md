@@ -13,3 +13,6 @@
 * Git
 * [BOJ](https://www.acmicpc.net/)
 * [solved.ac](https://solved.ac/)
+
+## Resources ##
+* Personal progress [google sheet](https://docs.google.com/spreadsheets/d/1pBotXV9GDuV_-6nCTQN81cO4-WdrZM79Bw78lgvyJLo/edit#gid=0)
